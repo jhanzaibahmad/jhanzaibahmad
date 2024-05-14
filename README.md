@@ -1,22 +1,7 @@
 
-![pixel-night-banner](https://github.com/jhanzaibahmad/jhanzaibahmad/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)
 
 
-
-
-
-
-
-![borderseparator](https://github.com/jhanzaibahmad/jhanzaibahmad/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-
-
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Geeks+!;I'm+jhanzaibahmad+;Let's+Follow+EachOther;Sophomore;ComputerSCience;Student;Happy+Coding;I'm+a+Pythonista+)](https://git.io/typing-svg)
-
-![borderseparator](https://github.com/jhanzaibahmad/jhanzaibahmad/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Geeks+!;I'm+jhanzaibahmad+;Let's+Follow+EachOther;Sophomore;Computer-Science;Student;Happy+Coding;I'm+a+Pythonista+)](https://git.io/typing-svg)
 
 <br>
 
@@ -46,8 +31,6 @@
 </div>
   </div>
 <br>
-
-![borderseparator](https://github.com/jhanzaibahmad/jhanzaibahmad/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
   <div align="center">
 
@@ -87,8 +70,7 @@
 
   </div>
   </div>
-  
-![borderseparator](https://github.com/jhanzaibahmad/jhanzaibahmad/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+<br>  
   <div>
 <h2 align="center"> Badges 🏆</h2>
   
@@ -96,11 +78,6 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=jhanzaibahmad&theme=radical)](https://github.com/jhanzaibahmad/github-profile-trophy)
 </div>
-
-  
-  ![borderseparator](https://github.com/jhanzaibahmad/jhanzaibahmad/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
-
-
 
  <div align="center"> 
   <h2>Languages and Tools 🧰</h2>
@@ -127,19 +104,6 @@
 </div>
 
 
-
-
-
-
- 
- ![borderseparator](https://github.com/jhanzaibahmad/jhanzaibahmad/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
-
-
-
-
-
-
-
         
           <🔭 Diving deep into the programming world</li>
           <🌱 I’m currently learning everything</li>
@@ -151,8 +115,4 @@
         </ul>
   
  
- ![borderseparator](https://github.com/jhanzaibahmad/jhanzaibahmad/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-  
-
-![animated-wave](https://github.com/jhanzaibahmad/jhanzaibahmad/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
